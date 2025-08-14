@@ -1,2 +1,2 @@
 # Pi2_Bot
-[Pi2_Bot](https://wallet.fastset.xyz/)
+项目地址：https://wallet.fastset.xyz/
